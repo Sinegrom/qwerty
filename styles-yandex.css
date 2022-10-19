@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto&display=swap');
+
+.first {  
+    background-color: rgb(245, 30, 30);
+    font: normal 16px 'Roboto', sans-serif;
+    display: flex;
+    
+}
+
+.first h2 {
+    color: rgb(255, 255, 255);
+}
+
+.first h3 {
+    color: rgba(240, 248, 255, 0.541);
+    text-align: center;
+
+}
+
